@@ -18,6 +18,7 @@ This is a website for travel agency.
 
 ```
 cd folder directory
+
 ```
 gulp watch
  
