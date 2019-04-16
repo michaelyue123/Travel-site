@@ -14,7 +14,7 @@ This is a website for travel agency.
 * babel
 * webpack
 
-### Running the project
+### Run the project
 
 ```
 cd folder directory
